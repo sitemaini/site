@@ -4,10 +4,10 @@
     <meta http-equiv="refresh" content="2;url=https://sitema.info">
   </head>    
   <body> 
-    <p>Please Wait 3 Seconds To Move To New Page!
+    <p>Ｐｌｅａｓｅ Ｗａｉｔ ３ Ｓｅｃｏｎｄｓ Ｔｏ Ｍｏｖｅ Ｔｏ Ｎｅｗ Ｐａｇｅ！
 <br>
 <a href="https://sitema.info">
-     Click Now</a>
+     𝓒𝓵𝓲𝓬𝓴 𝓝𝓸𝔀</a>
 </p> 
   </body>  
 </html>
